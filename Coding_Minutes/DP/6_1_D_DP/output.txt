@@ -1,0 +1,3 @@
+a a b a 
+a aba 
+aa b a 
